@@ -1,0 +1,5 @@
+view\LiteraturaView.class
+view\LiteraturaView$1.class
+controller\LiteraturaController.class
+model\LiteraturaModel.class
+dao\LiteraturaDao.class
